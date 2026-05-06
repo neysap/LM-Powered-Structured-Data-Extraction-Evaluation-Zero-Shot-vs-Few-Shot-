@@ -108,15 +108,17 @@ This project provided hands-on experience with:
 
 The complete implementation, prompt engineering workflow, and evaluation pipeline can be viewed here:
 
-👉 [Insert GitHub Repository Link Here]
+👉 https://github.com/neysap/LM-Powered-Structured-Data-Extraction-Evaluation-Zero-Shot-vs-Few-Shot-/blob/main/Exploring_GPT.ipynb
 
 ---
 
-### Open the Google Colab Notebook
+To run the notebook interactively in Google Colab:
 
-To run or review the notebook directly in Google Colab:
+Open the notebook link above
+Click the “Open in Colab” button at the top of the notebook
 
-👉 [Insert Google Colab Link Here]
+👉 <img width="150" height="41" alt="image" src="https://github.com/user-attachments/assets/45d0c083-ab3f-4e76-89af-38b9fda0416e" />
+
 
 ---
 
