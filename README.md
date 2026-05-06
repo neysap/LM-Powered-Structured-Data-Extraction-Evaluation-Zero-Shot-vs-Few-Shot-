@@ -116,8 +116,7 @@ To run the notebook interactively in Google Colab:
 
 Open the notebook link above
 Click the “Open in Colab” button at the top of the notebook
-
-👉 <img width="150" height="41" alt="image" src="https://github.com/user-attachments/assets/45d0c083-ab3f-4e76-89af-38b9fda0416e" />
+<img width="150" height="41" alt="image" src="https://github.com/user-attachments/assets/45d0c083-ab3f-4e76-89af-38b9fda0416e" />
 
 
 ---
